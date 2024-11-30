@@ -1,0 +1,7 @@
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\bin\Debug\Task_7.1.exe.config
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\bin\Debug\Task_7.1.exe
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\bin\Debug\Task_7.1.pdb
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\obj\Debug\Task_7.1.csproj.AssemblyReference.cache
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\obj\Debug\Task_7.1.csproj.CoreCompileInputs.cache
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\obj\Debug\Task_7.1.exe
+D:\Учеба\DOT-NET\Lab_3\Task_7.1\obj\Debug\Task_7.1.pdb
