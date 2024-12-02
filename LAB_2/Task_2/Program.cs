@@ -52,7 +52,7 @@ namespace Task_2
                 Console.Write($"{ResAr[i],10}  ");
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

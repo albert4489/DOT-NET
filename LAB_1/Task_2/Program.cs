@@ -101,7 +101,7 @@ namespace Task_2
             Console.WriteLine("└─────────────────────────────────────────────────────────────────────┘");
 
             Console.ResetColor();
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

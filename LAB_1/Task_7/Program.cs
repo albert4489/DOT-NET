@@ -38,7 +38,7 @@ namespace Task_7
                 }
             }
             Console.WriteLine($"Повна сума ряду = {sum.ToString("F7")}");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

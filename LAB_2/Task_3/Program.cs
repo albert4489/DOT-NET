@@ -68,7 +68,7 @@ namespace Task_3
                 }
             }
             Console.ResetColor();
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

@@ -48,7 +48,7 @@ namespace Task_8
                 Console.WriteLine($"Ряд обчислений після досягнення {maxterms} членів.");
             }
             Console.WriteLine($"Сума ряду = {sum.ToString("F7")}");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

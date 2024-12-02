@@ -30,7 +30,7 @@ namespace Task_5
                 Console.WriteLine("Точка не потрапляє в задану область");
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
 
         }
     }

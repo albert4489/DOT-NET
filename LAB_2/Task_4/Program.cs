@@ -71,7 +71,7 @@ namespace Task_4
             }
 
             Console.ResetColor();
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

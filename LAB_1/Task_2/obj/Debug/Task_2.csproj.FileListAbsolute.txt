@@ -5,3 +5,10 @@ D:\Учеба\DOT-NET labs\LAB_1\Task_2\obj\Debug\Task_2.csproj.AssemblyReferenc
 D:\Учеба\DOT-NET labs\LAB_1\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
 D:\Учеба\DOT-NET labs\LAB_1\Task_2\obj\Debug\Task_2.exe
 D:\Учеба\DOT-NET labs\LAB_1\Task_2\obj\Debug\Task_2.pdb
+D:\Учеба\DOT-NET\LAB_1\Task_2\bin\Debug\Task_2.exe.config
+D:\Учеба\DOT-NET\LAB_1\Task_2\bin\Debug\Task_2.exe
+D:\Учеба\DOT-NET\LAB_1\Task_2\bin\Debug\Task_2.pdb
+D:\Учеба\DOT-NET\LAB_1\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+D:\Учеба\DOT-NET\LAB_1\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Учеба\DOT-NET\LAB_1\Task_2\obj\Debug\Task_2.exe
+D:\Учеба\DOT-NET\LAB_1\Task_2\obj\Debug\Task_2.pdb

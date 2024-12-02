@@ -66,7 +66,7 @@ namespace Task_7
                 Console.WriteLine(string.Join("\t", row));
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

@@ -75,7 +75,7 @@ namespace Task_4
             finally
             {
                 Console.WriteLine("Програма завершена.");
-                Console.ReadKey();
+                Console.ReadLine();
             }
 
            }

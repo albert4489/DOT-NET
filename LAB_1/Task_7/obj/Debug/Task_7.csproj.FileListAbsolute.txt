@@ -5,3 +5,10 @@ D:\Учеба\DOT-NET labs\LAB_1\Task_7\bin\Debug\Task_7.exe
 D:\Учеба\DOT-NET labs\LAB_1\Task_7\bin\Debug\Task_7.pdb
 D:\Учеба\DOT-NET labs\LAB_1\Task_7\obj\Debug\Task_7.exe
 D:\Учеба\DOT-NET labs\LAB_1\Task_7\obj\Debug\Task_7.pdb
+D:\Учеба\DOT-NET\LAB_1\Task_7\bin\Debug\Task_7.exe.config
+D:\Учеба\DOT-NET\LAB_1\Task_7\bin\Debug\Task_7.exe
+D:\Учеба\DOT-NET\LAB_1\Task_7\bin\Debug\Task_7.pdb
+D:\Учеба\DOT-NET\LAB_1\Task_7\obj\Debug\Task_7.csproj.AssemblyReference.cache
+D:\Учеба\DOT-NET\LAB_1\Task_7\obj\Debug\Task_7.csproj.CoreCompileInputs.cache
+D:\Учеба\DOT-NET\LAB_1\Task_7\obj\Debug\Task_7.exe
+D:\Учеба\DOT-NET\LAB_1\Task_7\obj\Debug\Task_7.pdb

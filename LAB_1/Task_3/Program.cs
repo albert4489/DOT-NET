@@ -35,7 +35,7 @@ namespace Task_3
 
             Console.WriteLine($"t1 = {t1}");
             Console.WriteLine($"t2 = {t2}");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

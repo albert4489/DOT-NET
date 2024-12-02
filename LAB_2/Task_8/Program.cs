@@ -70,7 +70,7 @@ namespace Task_8
                 Console.ResetColor();
             }
             Console.ResetColor();
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

@@ -22,7 +22,7 @@ namespace Task_9
 
             for (int i = 0; i < size; i++)
             {
-                Ar[i] = random.Next(-100, 101);
+                Ar[i] = random.Next(1, 101);
             }
 
             Console.WriteLine("Масив:");
@@ -67,7 +67,7 @@ namespace Task_9
                 Console.WriteLine("Немає чисел, які зустрічаються більше одного разу.");
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

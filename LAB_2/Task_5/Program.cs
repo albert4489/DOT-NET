@@ -46,7 +46,7 @@ namespace Task_5
                 Console.WriteLine();
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

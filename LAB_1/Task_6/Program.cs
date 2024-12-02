@@ -21,14 +21,13 @@ namespace Task_6
 
             Console.WriteLine($"x = {x}, y = {y}");
 
-            // Вывод результата с использованием тернарного оператора
             string result = ((-1 <= x) && (x <= 1) && (-1 <= y) && (y <= 1) && (y >= x))
                 ? "Точка потрапляє в задану область"
                 : "Точка не потрапляє в задану область";
 
             Console.WriteLine(result);
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
