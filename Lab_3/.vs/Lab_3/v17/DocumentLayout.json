@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B36399F7-E29D-4EEB-8F14-9C2DA2A3AA62}|Task_8.2\\Task_8.2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\dot-net\\lab_3\\task_8.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B36399F7-E29D-4EEB-8F14-9C2DA2A3AA62}|Task_8.2\\Task_8.2.csproj|solutionrelative:task_8.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1CB61-1555-4BD3-A654-9FD48876C8FB}|Task_2\\Task_2.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B1CB61-1555-4BD3-A654-9FD48876C8FB}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC6874C-7EDF-4092-8B7E-8B8AF58D15A1}|Task_1\\Task_1.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC6874C-7EDF-4092-8B7E-8B8AF58D15A1}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:29:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:28:27.886Z"
             },
             {
               "$type": "Document",
@@ -28,7 +60,7 @@
               "RelativeDocumentMoniker": "Task_8.2\\Program.cs",
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_3\\Task_8.2\\Program.cs",
               "RelativeToolTip": "Task_8.2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T23:59:36.592Z",
               "EditorCaption": ""

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285DB8B1-1F72-4256-8D8F-2863DB42E8DF}|Task_8\\Task_8.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\task_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285DB8B1-1F72-4256-8D8F-2863DB42E8DF}|Task_8\\Task_8.csproj|solutionrelative:task_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE21D46-240D-40AD-913B-9A72BBCEF92B}|Task_7\\Task_7.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\task_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE21D46-240D-40AD-913B-9A72BBCEF92B}|Task_7\\Task_7.csproj|solutionrelative:task_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B6492E-9134-4981-9F17-E431B8752AD4}|Task_6.2\\Task_6.2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\dot-net\\lab_5\\task_6.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B6492E-9134-4981-9F17-E431B8752AD4}|Task_6.2\\Task_6.2.csproj|solutionrelative:task_6.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391439DD-8905-4096-8D12-21FD14E66338}|Task_6.1\\Task_6.1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\dot-net\\lab_5\\task_6.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391439DD-8905-4096-8D12-21FD14E66338}|Task_6.1\\Task_6.1.csproj|solutionrelative:task_6.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CD0EF2-7CE2-422D-8783-5D10520C6271}|Task_4\\Task_4.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\task_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CD0EF2-7CE2-422D-8783-5D10520C6271}|Task_4\\Task_4.csproj|solutionrelative:task_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5F0689-CD53-4181-B066-3ADBCE594D7A}|Task_2\\Task_2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\dot-net\\lab_5\\task_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5F0689-CD53-4181-B066-3ADBCE594D7A}|Task_2\\Task_2.csproj|solutionrelative:task_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_6.2\\Form1.cs",
+              "RelativeDocumentMoniker": "Task_6.2\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_6.2\\Form1.cs",
+              "RelativeToolTip": "Task_6.2\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:19:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_6.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Task_6.1\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_6.1\\Form1.cs",
+              "RelativeToolTip": "Task_6.1\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:19:09.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Task_2\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_2\\Form1.cs",
+              "RelativeToolTip": "Task_2\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:47:25.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Task_4\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_4\\Form1.cs",
+              "RelativeToolTip": "Task_4\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wCUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:47:00.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_7\\Form1.cs",
+              "RelativeDocumentMoniker": "Task_7\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_7\\Form1.cs",
+              "RelativeToolTip": "Task_7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:44:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_8\\Form1.cs",
+              "RelativeDocumentMoniker": "Task_8\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\DOT-NET\\Lab_5\\Task_8\\Form1.cs",
+              "RelativeToolTip": "Task_8\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:26:15.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\Albert\source\repos\Lab_5\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
+C:\Users\Albert\source\repos\Lab_5\Task_4\obj\Debug\Task_4.Properties.Resources.resources
+C:\Users\Albert\source\repos\Lab_5\Task_4\obj\Debug\Task_4.csproj.GenerateResource.cache
+C:\Users\Albert\source\repos\Lab_5\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\Lab_5\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\Albert\source\repos\Lab_5\Task_4\bin\Debug\Task_4.exe
+C:\Users\Albert\source\repos\Lab_5\Task_4\bin\Debug\Task_4.pdb
+C:\Users\Albert\source\repos\Lab_5\Task_4\obj\Debug\Task_4.exe
+C:\Users\Albert\source\repos\Lab_5\Task_4\obj\Debug\Task_4.pdb

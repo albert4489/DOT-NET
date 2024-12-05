@@ -1,0 +1,10 @@
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\bin\Debug\Task_5.2.exe.config
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\bin\Debug\Task_5.2.exe
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\bin\Debug\Task_5.2.pdb
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5.2.csproj.AssemblyReference.cache
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5._2.Form1.resources
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5._2.Properties.Resources.resources
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5.2.csproj.GenerateResource.cache
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5.2.csproj.CoreCompileInputs.cache
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5.2.exe
+D:\Учеба\DOT-NET\Lab_5\Task_5.2\obj\Debug\Task_5.2.pdb

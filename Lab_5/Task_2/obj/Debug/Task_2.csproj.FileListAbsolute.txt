@@ -1,0 +1,9 @@
+C:\Users\Albert\source\repos\Lab_5\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\Albert\source\repos\Lab_5\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Albert\source\repos\Lab_5\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Albert\source\repos\Lab_5\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\Lab_5\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Albert\source\repos\Lab_5\Task_2\bin\Debug\Task_2.exe
+C:\Users\Albert\source\repos\Lab_5\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Albert\source\repos\Lab_5\Task_2\obj\Debug\Task_2.exe
+C:\Users\Albert\source\repos\Lab_5\Task_2\obj\Debug\Task_2.pdb

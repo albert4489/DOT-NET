@@ -1,0 +1,10 @@
+D:\Учеба\DOT-NET\Lab_7\Task_13\bin\Debug\Task_13.exe.config
+D:\Учеба\DOT-NET\Lab_7\Task_13\bin\Debug\Task_13.exe
+D:\Учеба\DOT-NET\Lab_7\Task_13\bin\Debug\Task_13.pdb
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.csproj.AssemblyReference.cache
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.Form1.resources
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.Properties.Resources.resources
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.csproj.GenerateResource.cache
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.csproj.CoreCompileInputs.cache
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.exe
+D:\Учеба\DOT-NET\Lab_7\Task_13\obj\Debug\Task_13.pdb
